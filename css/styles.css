@@ -8,11 +8,13 @@ body {
 }
 
 h1 {
-  text-align: center;
+  color: white;
   font-size: 24px;
+  text-align: center;
 }
 
 p {
+  color: white;
   font-size: 20px;
   text-align: center;
 }
