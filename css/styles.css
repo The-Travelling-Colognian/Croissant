@@ -1,5 +1,10 @@
 body {
-  background: blueviolet;
+  background: radial-gradient(
+    993px at 0.5% 98.5%,
+    rgb(0, 239, 247) 0%,
+    rgb(0, 122, 147) 46.7%,
+    rgb(0, 29, 72) 100.2%
+  );
 }
 
 h1,
